@@ -1,4 +1,4 @@
-# QuantumGANs-Digits
+# Quantum GANs - Digits
 
 As the field of Generative AI grows, an area of quantum computing that has gained significant attention in recent years is the development of Quantum Generative Adversarial Networks (Quantum GANs). With the promise of increased speed and efficiency over classical computing, Quantum GANs have the potential to unlock new possibilities for data processing and analysis.
 
